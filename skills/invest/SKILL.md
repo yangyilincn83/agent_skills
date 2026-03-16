@@ -1,13 +1,6 @@
 ---
-name: stock-trading-analyst
-description: >
-  Use this skill whenever the user asks about a stock, company analysis, investment
-  research, trading opportunities, market trends, earnings reports, sector analysis,
-  or any equity-related research task. Triggers include: ticker symbols, "should I
-  buy/sell", "what do you think about [company]", "analyse [stock]", "give me a
-  breakdown of [company]", or any request involving financial markets, stock
-  performance, or investment decisions. Combines real-time web search with
-  structured financial reasoning to produce institutional-grade equity research.
+name: invest
+description: Use this skill whenever the user asks about a stock, company analysis, investment research, trading opportunities, market trends, earnings reports, sector analysis, or any equity-related research task. Triggers include: ticker symbols, "should I buy/sell", "what do you think about [company]", "analyse [stock]", "give me a breakdown of [company]", or any request involving financial markets, stock performance, or investment decisions. Combines real-time web search with structured financial reasoning to produce institutional-grade equity research.
 ---
 
 # Stock Trading Analyst Skill
